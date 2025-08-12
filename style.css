@@ -1,8 +1,12 @@
 #cabeça{
     background-color: aquamarine;
+    border: 0px;
+    margin: 0px;
 }
 
 .texto{
     color: aqua;
     background-color: aquamarine;
+    border: 0px;
+    padding: 0px;
 }
