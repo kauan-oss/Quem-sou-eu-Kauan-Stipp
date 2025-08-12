@@ -2,11 +2,11 @@
     background-color: rgb(255, 255, 255);
     border: 0px;
     margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .texto{
     color: aqua;
     background-color: rgb(255, 255, 255);
-    border: 0px;
-    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
